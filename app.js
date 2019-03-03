@@ -1,5 +1,9 @@
 var http = require('http');
 var fs = require('fs');
+var express = require('express');
+var app = express();
+var publicDir = require('path').join(__dirname,'/public');
+app.use(express.static(publicDir));
 
 const PORT=3000; 
 
