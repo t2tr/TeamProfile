@@ -14,12 +14,16 @@
 #id3{
     background-color: rgb(245, 8, 59);
 }
+
 .class1{
     text-align: center;
 }
 .class2{
     text-align: center;
     background-color: #E8F0E5;
+}
+.class3{
+    height:400;
 }
 
 
