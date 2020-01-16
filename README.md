@@ -1,2 +1,2 @@
 # t2tr.github.io
-[Go to app](app://zalo.mobile)
+[Go to app](https://zalo.mobile)
